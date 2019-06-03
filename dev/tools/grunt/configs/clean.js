@@ -5,6 +5,8 @@
 
 'use strict';
 
+var a = 'aaa';
+
 var themes = require('../tools/files-router').get('themes'),
     _      = require('underscore');
 
